@@ -1,4 +1,8 @@
 soy feliz
 que tal
 tercera linea 
+<<<<<<< HEAD
 holaaa
+=======
+blablhola
+>>>>>>> 5688933ab08736156adb5c7a209264811e2a051d
